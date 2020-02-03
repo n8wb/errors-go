@@ -1,4 +1,5 @@
 # errors-go [![CircleCI](https://circleci.com/gh/segmentio/errors-go.svg?style=shield)](https://circleci.com/gh/segmentio/errors-go) [![Go Report Card](https://goreportcard.com/badge/github.com/segmentio/errors-go)](https://goreportcard.com/report/github.com/segmentio/errors-go) [![GoDoc](https://godoc.org/github.com/segmentio/errors-go?status.svg)](https://godoc.org/github.com/segmentio/errors-go)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fn8wb%2Ferrors-go.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fn8wb%2Ferrors-go?ref=badge_shield)
 
 ## Motivations
 
@@ -239,3 +240,7 @@ within the current program.*
 Resources:
 - [`errors.Value`](https://godoc.org/github.com/segmentio/errors-go#Value)
 - [`errors.ValueOf`](https://godoc.org/github.com/segmentio/errors-go#ValueOf)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fn8wb%2Ferrors-go.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fn8wb%2Ferrors-go?ref=badge_large)
